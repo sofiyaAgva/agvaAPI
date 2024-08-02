@@ -1,0 +1,210 @@
+{
+    "status": 200,
+    "statusValue": "SUCCESS",
+    "message": "Event lists has been retrieved successfully.",
+    "data": {
+        "data": [
+            {
+                "_id": "66657f6dd7c385bca8ac771d",
+                "deviceId": "b7fe1b2263aafb2b",
+                "addTofocus": false,
+                "address": "- - -",
+                "health": " Good",
+                "last_hours": "00:09:44",
+                "message": "ACTIVE",
+                "total_hours": "00:40:07",
+                "updatedAt": "2024-07-31T15:33:50.556Z",
+                "lastActive": "2024-07-31 15:33:50",
+                "deviceInfo": [
+                    {
+                        "_id": "662a11623f18c6fae6b2bf0e",
+                        "DeviceId": "b7fe1b2263aafb2b",
+                        "Alias_Name": "AgVa ",
+                        "Bio_Med": "Rohan Rana",
+                        "Department_Name": "Software",
+                        "Doctor_Name": "Deepak",
+                        "Hospital_Name": "KGMU Lucknow",
+                        "IMEI_NO": "H2HI2300",
+                        "Ward_No": "123",
+                        "addTofocus": false,
+                        "deviceType": "Ventilator",
+                        "isLocked": false,
+                        "isPaymentDone": "true"
+                    }
+                ],
+                "alarmData": [
+                    {
+                        "_id": "66aa57ce901ccd3f08115154",
+                        "did": "b7fe1b2263aafb2b",
+                        "type": "002",
+                        "ack": {
+                            "msg": "Pressure limited vt not reached",
+                            "code": "ACK0424",
+                            "date": "2024-07-31T20:49:00"
+                        },
+                        "priority": "ALARM_MEDIUM_LEVEL",
+                        "createdAt": "2024-07-31T15:27:10.697Z",
+                        "updatedAt": "2024-07-31T15:27:10.697Z",
+                        "__v": 0
+                    }
+                ],
+                "patientData": []
+            },
+            {
+                "_id": "665aea3a87fb67d45208d60b",
+                "deviceId": "d15571a313956bcc",
+                "addTofocus": false,
+                "address": "- - -",
+                "health": " Good",
+                "last_hours": "00:00:26",
+                "message": "INACTIVE",
+                "total_hours": "276:19:39",
+                "updatedAt": "2024-07-29T11:04:13.458Z",
+                "lastActive": "2024-07-29 08:36:40",
+                "deviceInfo": [
+                    {
+                        "_id": "664c781852efd6025885579e",
+                        "DeviceId": "d15571a313956bcc",
+                        "Alias_Name": "Agva Pro Production",
+                        "Bio_Med": "Ankit",
+                        "Department_Name": "Software",
+                        "Doctor_Name": "Dr.Deepak",
+                        "Hospital_Name": "KGMU Lucknow",
+                        "IMEI_NO": "ADS12345",
+                        "Ward_No": "23",
+                        "addTofocus": false,
+                        "deviceType": "Ventilator",
+                        "isLocked": false,
+                        "isPaymentDone": "true"
+                    }
+                ],
+                "alarmData": [
+                    {
+                        "_id": "66a7549983605d536c71f06a",
+                        "did": "d15571a313956bcc",
+                        "type": "002",
+                        "ack": {
+                            "msg": "Leakage",
+                            "code": "Average Leak",
+                            "date": "2024-07-29T14:06:00"
+                        },
+                        "priority": "ALARM_LOW_LEVEL",
+                        "createdAt": "2024-07-29T08:36:41.066Z",
+                        "updatedAt": "2024-07-29T08:36:41.066Z",
+                        "__v": 0
+                    }
+                ],
+                "patientData": []
+            },
+            {
+                "_id": "667fe9e027458f9704f1fc40",
+                "deviceId": "4f00418b579f1d3a",
+                "addTofocus": false,
+                "address": "- - -",
+                "health": " Good",
+                "lastActive": "2024-07-25 05:50:28",
+                "last_hours": "20:06:14",
+                "message": "INACTIVE",
+                "total_hours": "43:13:56",
+                "updatedAt": "2024-07-25T05:50:29.196Z",
+                "deviceInfo": [
+                    {
+                        "_id": "662653aa06b42c590eeb060f",
+                        "DeviceId": "4f00418b579f1d3a",
+                        "Alias_Name": "AgVa Pro",
+                        "Bio_Med": "Rohan",
+                        "Department_Name": "Software ",
+                        "Doctor_Name": "Deepak",
+                        "Hospital_Name": "KGMU Lucknow",
+                        "IMEI_NO": "121",
+                        "Ward_No": "12",
+                        "addTofocus": false,
+                        "deviceType": "AgVa-Pro",
+                        "isLocked": false,
+                        "isPaymentDone": "true"
+                    }
+                ],
+                "alarmData": [
+                    {
+                        "_id": "66a1e7a542990ecfe6fdf756",
+                        "did": "4f00418b579f1d3a",
+                        "type": "002",
+                        "ack": {
+                            "msg": "VT not reached",
+                            "code": "ACK0421",
+                            "date": "2024-07-25T08:04:00"
+                        },
+                        "priority": "ALARM_MEDIUM_LEVEL",
+                        "createdAt": "2024-07-25T05:50:29.816Z",
+                        "updatedAt": "2024-07-25T05:50:29.816Z",
+                        "__v": 0
+                    }
+                ],
+                "patientData": []
+            },
+            {
+                "_id": "6659ac9a9627dcdd02b2977b",
+                "deviceId": "fa01737626edcdb6",
+                "addTofocus": false,
+                "address": "- - -",
+                "health": " Good",
+                "last_hours": "00:01:00",
+                "message": "INACTIVE",
+                "total_hours": "00:03:44",
+                "updatedAt": "2024-06-06T08:29:26.369Z",
+                "lastActive": "--",
+                "deviceInfo": [
+                    {
+                        "_id": "651b8f82907be551524b3494",
+                        "DeviceId": "fa01737626edcdb6",
+                        "Bio_Med": "Masom",
+                        "Department_Name": "Software Testing",
+                        "Doctor_Name": "Rohan",
+                        "Hospital_Name": "KGMU Lucknow",
+                        "IMEI_NO": "AIU3N",
+                        "Ward_No": "124",
+                        "Alias_Name": "OxyPlus",
+                        "addTofocus": false,
+                        "deviceType": "AgVa-Pro"
+                    }
+                ],
+                "alarmData": [],
+                "patientData": []
+            },
+            {
+                "_id": "665eb40301f97e7831b02a57",
+                "deviceId": "462241ce567a467e",
+                "addTofocus": false,
+                "address": "- - -",
+                "health": " Good",
+                "last_hours": "00:06:47",
+                "message": "INACTIVE",
+                "total_hours": "00:06:47",
+                "updatedAt": "2024-06-05T04:39:23.792Z",
+                "lastActive": "--",
+                "deviceInfo": [
+                    {
+                        "_id": "661cb5c6d4f6f664c59761b7",
+                        "DeviceId": "462241ce567a467e",
+                        "Alias_Name": "Oxy Plus",
+                        "Bio_Med": "Rohan",
+                        "Department_Name": "R&D",
+                        "Doctor_Name": "Dr. Deepak",
+                        "Hospital_Name": "KGMU Lucknow",
+                        "IMEI_NO": "0992018",
+                        "Ward_No": "11",
+                        "addTofocus": false,
+                        "deviceType": "Patient-Monitor",
+                        "isLocked": false,
+                        "isPaymentDone": "true"
+                    }
+                ],
+                "alarmData": [],
+                "patientData": []
+            }
+        ]
+    },
+    "totalDataCount": 5,
+    "totalPages": 1,
+    "currentPage": 1
+}

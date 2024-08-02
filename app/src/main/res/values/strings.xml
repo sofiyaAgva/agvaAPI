@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">APIExample</string>
+    <string name="api_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjU5YmI1ZmExMjU2MzNjYmNjNzNlZjkyIiwianRpIjoieE1XeFVpeDJrUiIsImlhdCI6MTcyMjU4MDcxNCwiZXhwIjoxNzIzODc2NzE0fQ.M9B-mxIK8m1LuJ8Avr9krAsU-FYH6uATJSW_jpRjJgg</string>
+</resources>
